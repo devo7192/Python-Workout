@@ -15,8 +15,6 @@ def find_longest_word(fileName):
 
 
 def find_all_longest_words(directory):
-    # returns a dict in which the keys are filenames
-    # and the values are the longest words from each file
     
     result = {}
 
